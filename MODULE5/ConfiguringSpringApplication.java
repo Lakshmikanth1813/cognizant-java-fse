@@ -15,7 +15,7 @@ class BookService {
     }
 }
 
-public class LibraryManagement {
+public class ConfiguringSpringApplication {
 
     public static void main(String[] args) {
 

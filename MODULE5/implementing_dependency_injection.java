@@ -23,7 +23,7 @@ class BookService {
     }
 }
 
-public class LibraryManagement {
+public class implementing_dependency_injection {
 
     public static void main(String[] args) {
 

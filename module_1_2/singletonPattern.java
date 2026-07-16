@@ -18,7 +18,7 @@ class Logger {
     }
 }
 
-public class SingletonTest {
+public class singletonPattern{
 
     public static void main(String[] args) {
 

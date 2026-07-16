@@ -50,7 +50,7 @@ class BinarySearch {
     }
 }
 
-public class EcommerceSearch {
+public class EcommerceSearchFunction {
     public static void main(String[] args) {
 
         Product[] products = {
