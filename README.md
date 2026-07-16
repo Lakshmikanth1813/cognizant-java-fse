@@ -121,7 +121,7 @@ Through this project, I have:
 
 ## 👨‍💻 Author
 
-**Varun Gajula**  
+**Dhani Lakshmi Kanth Reddy**  
 🎓 Student | Aspiring Full Stack Developer
 
 ***
@@ -131,5 +131,3 @@ Through this project, I have:
 If you like this repository, don’t forget to ⭐ star it!
 
 ***
-
-
