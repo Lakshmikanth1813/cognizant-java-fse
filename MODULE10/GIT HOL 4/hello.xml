@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+    <to>User</to>
+    <from>Master Branch &amp; GitWork Branch</from>
+    <heading>Resolved Notice</heading>
+    <body>Merged changes from master and GitWork branches cleanly</body>
+</note>

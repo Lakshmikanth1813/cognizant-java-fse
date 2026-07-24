@@ -1,0 +1,5 @@
+# Merge backup and temporary files
+*.orig
+*.bak
+*.tmp
+*.swp
